@@ -234,12 +234,14 @@ body {
      width:100%;
 }
 .project-title{
-     display:flex;
-     justify-content:space-between;
-     text-transform:uppercase;
-     font-weight:800;
-     margin-top:10px;
+    display: flex;
+    justify-content: center; 
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 10px;
+    gap: 10px; 
 }
+
 
 .project-info{
      padding:1em;
